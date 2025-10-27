@@ -626,11 +626,6 @@ Lembre-se:
 
 ---
 
-## 👨‍💻 Autor
-
-**TADS Web Design**  
-Material educacional sobre desenvolvimento web
-
 ## 📄 Licença
 
 Este material é disponibilizado para fins educacionais. Consulte o arquivo LICENSE para mais detalhes.
